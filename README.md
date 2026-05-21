@@ -21,8 +21,8 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "[Aparna Gayathri Narasimman]"
-        self.degree      = "MSc Computer Science — Intelligent Systems"
+        self.name        = "Aparna Gayathri Narasimman"
+        self.degree      = "MSc Computer Science - Intelligent Systems"
         self.university  = "Trinity College Dublin 🎓"
         self.grade       = "1:1 Distinction"
         self.location    = "Dublin, Ireland 🇮🇪"
